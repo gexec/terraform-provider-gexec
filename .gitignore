@@ -1,4 +1,5 @@
-.direnv/
-.devenv/
+mise.local.toml
 
-.pre-commit-config.yaml
+.terraform/
+*.retry
+*.tfvars
