@@ -2,7 +2,7 @@
 
 [tools]
 node = "24"
-pipx = "1.16.6"
+pipx = "1.16.7"
 pre-commit = "4.6.2"
 terraform = "1.15.8"
 tflint = "0.64.0"
